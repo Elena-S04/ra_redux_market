@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra_redux_market/static/css/main.baf548c0.css",
+    "main.js": "/ra_redux_market/static/js/main.3a09af7f.js",
+    "static/js/787.65a34a69.chunk.js": "/ra_redux_market/static/js/787.65a34a69.chunk.js",
+    "index.html": "/ra_redux_market/index.html",
+    "main.baf548c0.css.map": "/ra_redux_market/static/css/main.baf548c0.css.map",
+    "main.3a09af7f.js.map": "/ra_redux_market/static/js/main.3a09af7f.js.map",
+    "787.65a34a69.chunk.js.map": "/ra_redux_market/static/js/787.65a34a69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baf548c0.css",
+    "static/js/main.3a09af7f.js"
+  ]
+}

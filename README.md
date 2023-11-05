@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/as4i9v2suiw89g4r?svg=true)](https://ci.appveyor.com/project/Elena-S04/ra-redux-market)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
